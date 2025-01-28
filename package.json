@@ -1,5 +1,6 @@
 {
   "name": "alu",
+  "packageManager": "pnpm@9.2.0",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
